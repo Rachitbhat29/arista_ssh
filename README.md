@@ -7,5 +7,6 @@ Read host details from file 'hostnames.txt' and connect using SSH to get CPU cor
 
 2. Add host details in hostnames.txt file.
 
+3. Pylint ouputs are added in files.
 
 
